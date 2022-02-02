@@ -9,11 +9,10 @@ public class App
     public static void main( String[] args )
     {
     	String name="";
-
-		for(int i = 0; i < args.length; i++){
-			name+=args[i]+" ";
- 		}
-		if( "".contentEquals(name) ) {
+        for(int i = 0; i < args.length; i++){
+            name+=args[i]+" ";
+        }
+		if((name == "")) {
 			System.out.println(   "Hello world!" );
 			
 		}
