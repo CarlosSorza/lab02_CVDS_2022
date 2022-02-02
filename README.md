@@ -41,3 +41,43 @@ Investigue para qué sirve "gitignore" y cómo se usa. Para futuras entregas, de
 Git ignore es un archivo.gitignore que permite escribir las extenciones de los archivos\
 que no deseo en el repositorio, por ejemplo los .class de mi proyecto
 
+
+Para ver el conjunto de archivos y directorios creados por el comando mvn ejecute el comando tree.
+
+$ tree
+
+![image](https://user-images.githubusercontent.com/78982514/152186996-b3df3045-4764-49f1-82a1-4474bb5ad7e0.png)
+
+
+COMPILAR Y EJECUTAR
+Para compilar ejecute el comando:
+
+$ mvn package
+
+![image](https://user-images.githubusercontent.com/78982514/152187291-7859d48f-2738-4845-aacf-059577ffa4f2.png)
+
+Hello World!
+![image](https://user-images.githubusercontent.com/78982514/152187470-3b0a8eb1-b6e6-4f2a-a2b4-160dd65138c7.png)
+
+Hello Pepito
+![image](https://user-images.githubusercontent.com/78982514/152187793-553e40b1-902e-4da9-aea9-4a8ab6306e2c.png)
+
+Sin parámetros 
+![image](https://user-images.githubusercontent.com/78982514/152190450-365d1781-5811-4b8d-96d8-9753d3b6ef3d.png)
+
+Parámetro: qwerty
+
+![image](https://user-images.githubusercontent.com/78982514/152190555-52971885-e597-4539-aba9-0f0358462fa7.png)
+
+Triangle 
+
+![image](https://user-images.githubusercontent.com/78982514/152190648-ce9b9e0e-c8f4-4a31-979e-0ec0fcec4ccf.png)
+
+Pentagon
+
+![image](https://user-images.githubusercontent.com/78982514/152190811-a1f145a6-242c-4c19-b475-5a6743a4185d.png)
+
+Hexagon
+
+![image](https://user-images.githubusercontent.com/78982514/152190868-3974ed0e-d19a-4ba8-b8f9-dd881c7bd3f9.png)
+
