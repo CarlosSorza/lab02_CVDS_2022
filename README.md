@@ -44,7 +44,7 @@ como se encuentra actualmente:
 -Ejecutar la clase desde línea de comandos enviando su nombre como parámetro y verificar la salida. Ej: Hello Pepito!\
 -Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?
 
-Sigue imprimiendo hello world!\
+Sigue imprimiendo hello world!
 
 -Verifique cómo enviar los parámetros de forma "compuesta" para que el saludo se realice con nombre y apellido.\
 -Ejecutar nuevamente y verificar la salida en consola. Ej: Hello Pepito Perez!
