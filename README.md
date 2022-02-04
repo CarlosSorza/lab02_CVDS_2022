@@ -1,11 +1,11 @@
-### Laboratorio 2
+## Laboratorio 2 -DAVID LEON, CARLOS SORZA
 ## Crear un proyecto con maven
 
 Busque cómo ejecutar desde línea de comandos, un proyecto maven y verifique la salida cuando\
-se ejecuta con la clase App.java como parámetro en "mainClass".\
+se ejecuta con la clase App.java como parámetro en "mainClass".
 Tip: https://www.mojohaus.Sorg/exec-maven-plugin/usage.html
 - Se obtiene como respuesta hello world!\
-- mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.App\
+- mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.App
 
 
 Para ver el conjunto de archivos y directorios creados por el comando mvn ejecute el comando tree.
@@ -26,30 +26,33 @@ $ mvn package
 ![image](https://user-images.githubusercontent.com/78982514/152187291-7859d48f-2738-4845-aacf-059577ffa4f2.png)
 
 Hello World!
+
 ![image](https://user-images.githubusercontent.com/78982514/152187470-3b0a8eb1-b6e6-4f2a-a2b4-160dd65138c7.png)
 
-Hello Pepito
+Hello PepitO
+
 ![image](https://user-images.githubusercontent.com/78982514/152187793-553e40b1-902e-4da9-aea9-4a8ab6306e2c.png)
 
 
 Realice el cambio en la clase App.java para crear un saludo personalizado, basado en los parámetros\
 de entrada a la aplicación. Utilizar la primera posición del parámetro que llega al método "main" \
 para realizar el saludo personalizado, en caso que no sea posible, se debe mantener el saludo \
-como se encuentra actualmente:\
+como se encuentra actualmente:
+
 - Buscar cómo enviar parámetros al plugin "exec".\
 -Ejecutar nuevamente la clase desde línea de comandos y verificar la salida: Hello World!\
 -Ejecutar la clase desde línea de comandos enviando su nombre como parámetro y verificar la salida. Ej: Hello Pepito!\
--Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?\
+-Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?
 
 Sigue imprimiendo hello world!\
 
 -Verifique cómo enviar los parámetros de forma "compuesta" para que el saludo se realice con nombre y apellido.\
--Ejecutar nuevamente y verificar la salida en consola. Ej: Hello Pepito Perez!\
+-Ejecutar nuevamente y verificar la salida en consola. Ej: Hello Pepito Perez!
 
 Al realizar los cambios correspondientes para que el archivo leyera la entrada e\
 imprimiera los elementos obtenemos que al entrar los parametros los imprime automaticamente\
 Ejecute múltiples veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y \
-verifique la salida en consola para cada una:\
+verifique la salida en consola para cada una:
 
 
 
@@ -75,7 +78,7 @@ Hexagon
 
 ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?\
 El codigo sirve bien en las entradas, ya que no entran figurar regulares\
-o errores de sintaxis, se generan las respuestas esperadas\
+o errores de sintaxis, se generan las respuestas esperadas
 
 Investigue para qué sirve "gitignore" y cómo se usa. Para futuras entregas, debe estar configurado.\
 Git ignore es un archivo.gitignore que permite escribir las extenciones de los archivos\
