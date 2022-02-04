@@ -17,7 +17,7 @@ $ tree
 ## Copilar y ejecutar
 
 Busque cuál es el objetivo del parámetro "package" y qué otros\
-parámetros se podrían enviar al comando mvn.\
+parámetros se podrían enviar al comando mvn.
 - Compila la aplicacion de java en torno a las dependencias declaradas en el POM\
 Para compilar ejecute el comando:
 
