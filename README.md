@@ -4,7 +4,7 @@
 Busque cómo ejecutar desde línea de comandos, un proyecto maven y verifique la salida cuando\
 se ejecuta con la clase App.java como parámetro en "mainClass".
 Tip: https://www.mojohaus.Sorg/exec-maven-plugin/usage.html
-- Se obtiene como respuesta hello world!\
+- Se obtiene como respuesta hello world!
 - mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.App
 
 
